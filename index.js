@@ -4,6 +4,17 @@ class Scale {
     static das(w) {
         return w + ' das'
     }
+
+
+
+    static getRange(period, days, start) {
+
+
+        
+        return {
+
+        }
+    }
 }
 
 
